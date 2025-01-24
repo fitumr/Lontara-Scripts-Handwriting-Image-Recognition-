@@ -1,4 +1,4 @@
-function varargout = Pengenalan_Bisindo2(varargin)
+function varargout = Pengenalan_Lontara2(varargin)
 % PENGENALAN_BISINDO2 MATLAB code for Pengenalan_Bisindo2.fig
 %      PENGENALAN_BISINDO2, by itself, creates a new PENGENALAN_BISINDO2 or raises the existing
 
@@ -43,8 +43,8 @@ else
 % End initialization code - DO NOT EDIT
 
 
-% --- Executes just before Pengenalan_Bisindo2 is made visible.
-function Pengenalan_Bisindo2_OpeningFcn(hObject, eventdata, handles, varargin)
+% --- Executes just before Pengenalan_Lontara2 is made visible.
+function Pengenalan_Lontara2_OpeningFcn(hObject, eventdata, handles, varargin)
 % This function has no output args, see OutputFcn.
 % hObject    handle to figure
 % eventdata  reserved - to be defined in a future version of MATLAB
