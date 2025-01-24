@@ -1,11 +1,11 @@
 function varargout = Pengenalan_Lontara2(varargin)
-% PENGENALAN_BISINDO2 MATLAB code for Pengenalan_Bisindo2.fig
-%      PENGENALAN_BISINDO2, by itself, creates a new PENGENALAN_BISINDO2 or raises the existing
 
-%      H = PENGENALAN_BISINDO2 returns the handle to a new PENGENALAN_BISINDO2 or the handle to
+
+
+%      H = PENGENALAN_lontara2 returns the handle to a new PENGENALAN_BISINDO2 or the handle to
 %      the existing singleton*.
 %
-%      PENGENALAN_BISINDO2('CALLBACK',hObject,eventData,handles,...) calls the local
+%      PENGENALAN_Lontara2('CALLBACK',hObject,eventData,handles,...) calls the local
 %      function named CALLBACK in PENGENALAN_BISINDO2.M with the given input arguments.
 %
 %      PENGENALAN_BISINDO2('Property','Value',...) creates a new PENGENALAN_BISINDO2 or raises the
